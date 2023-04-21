@@ -1,0 +1,19 @@
+*Built in Modules in node
+-OS
+-PATH
+-FS
+-HTTP
+
+
+--OS modules
+    provides built in properties and function to intracting with Operating System
+
+--PATH modules
+    to intract with files paths easily on to the System
+
+--File System Modules (FS)
+synchrouns way -
+    use to create rewrite append the files on to the system 
+    while using writeFileSync if no file is present then it creates 
+    new file and if we do not use flag for appened each time it will overight
+    the file with the new content provided by us 
