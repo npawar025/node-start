@@ -1,9 +1,9 @@
 /*
 *Globals-
 
-In browser while running JS we have acess to window object which has so many usefull properties
-similer way in node we have global with global variables we can access them anywhere in our node 
-application some exaples as following
+In browser while running JS we have access to window object which has so many useful properties
+similar way in node we have global with global variables we can access them anywhere in our node 
+application some examples as following
 
 __dirname  - path to current directory
 __filename - file name
