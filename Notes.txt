@@ -17,3 +17,6 @@ synchrouns way -
     while using writeFileSync if no file is present then it creates 
     new file and if we do not use flag for appened each time it will overight
     the file with the new content provided by us 
+
+asynchromous way-
+    
